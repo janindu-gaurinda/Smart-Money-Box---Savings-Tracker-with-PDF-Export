@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://janindu-gaurinda.github.io/Smart-Money-Box---Savings-Tracker-with-PDF-Export/sitemap.xml
